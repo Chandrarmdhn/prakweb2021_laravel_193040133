@@ -18,7 +18,7 @@
           
   
 
-  <a href="/blog" class="d-block mt-3">Back to Posts</a>
+          <a href="/blog" class="d-block mt-3">Back to Posts</a>
         </div>
       </div>
     </div>
