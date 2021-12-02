@@ -8,7 +8,7 @@
   <div class="container">
     <div class="row">
 
-    @foreach ( $Categories as $category)
+    @foreach ( $categories as $category)
       <div class="col-md-4">
         <a href="/blog?category={{$category->slug }}">
               <div class="card bg-dark text-white">

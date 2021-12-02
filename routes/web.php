@@ -31,9 +31,9 @@ Route::get('/about', function () {
     return view('about', [
         "title" => "About",
         "active" => "about",
-        "name" => "Aria Rupawansyah",
-        "email" => "193040140.aria@mail.unpas.ac.id",
-        "image" => "aria.jpg"
+        "name" => "Chandra Dwi Ramadhani",
+        "email" => "193040133.chandra@mail.unpas.ac.id",
+        "image" => "cdr.jpg"
     ]);
 });
 
